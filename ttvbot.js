@@ -16,6 +16,7 @@ var options = {
 };
 
 var channelname = "ChannelYouWantToRunBotOn";
+//Thank you Twitch.tv/OWCarter!!!
 function peenFunct(){
 	min = Math.ceil(3);
 	max = Math.floor(12);
